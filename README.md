@@ -22,9 +22,9 @@ Challenge of videos, lessons, tests and more from [Hacking with Swift](https://w
 - Day 100: Wrap up
 
 ### Checkpoints
-- Celsius to Fahrenheit;
-- Numbers and unique numbers in Array;
-- FizzBuzz;
+- Checkpoint 1: Celsius to Fahrenheit;
+- Checkpoint 2: Numbers and unique numbers in Array;
+- Checkpoint 3: FizzBuzz;
 - Checkpoint 4: Return the integer² of 1-10.000;
 - Checkpoint 5: Filter, sort and mapping;
 - Checkpoint 6: Create a struct to store information about a car;
