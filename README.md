@@ -1,5 +1,4 @@
-# Learning-Swift
-## 100 Days Of Swift! <img alt="Swift icon" src="https://image.flaticon.com/icons/png/512/732/732250.png" width="30" height="30"/>
+# Learning-Swift <img alt="Swift icon" src="https://image.flaticon.com/icons/png/512/732/732250.png" width="30" height="30"/>
 
 Challenge of videos, lessons, tests and more from [Hacking with Swift](https://www.hackingwithswift.com/100/swiftui/) <img alt="Swift icon" src="https://image.flaticon.com/icons/png/512/732/732250.png" width="15" height="15"/>
 
